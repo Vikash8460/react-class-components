@@ -1,6 +1,6 @@
 # React Class Components
 
-![cover](./src/components.gif)
+![cover](react-class-components/src/components.gif)
 
 ## 🦉 Main information
 
