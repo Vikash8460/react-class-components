@@ -1,4 +1,3 @@
-import { render } from "@testing-library/react";
 import { Component } from "react";
 
 export class ChangeName extends Component {
@@ -12,8 +11,8 @@ export class ChangeName extends Component {
   }
 
   updateName() {
-    this.setState({ name: "KATE" });
-    this.setState({ age: 30 });
+    this.setState({ name: "Vikash kumar" });
+    this.setState({ age: 24 });
   }
 
   render() {
